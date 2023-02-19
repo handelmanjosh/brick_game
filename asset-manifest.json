@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brickbreaker/static/css/main.2f277785.css",
+    "main.js": "/brickbreaker/static/js/main.7bf37480.js",
+    "static/js/787.9f85461a.chunk.js": "/brickbreaker/static/js/787.9f85461a.chunk.js",
+    "index.html": "/brickbreaker/index.html",
+    "main.2f277785.css.map": "/brickbreaker/static/css/main.2f277785.css.map",
+    "main.7bf37480.js.map": "/brickbreaker/static/js/main.7bf37480.js.map",
+    "787.9f85461a.chunk.js.map": "/brickbreaker/static/js/787.9f85461a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f277785.css",
+    "static/js/main.7bf37480.js"
+  ]
+}
